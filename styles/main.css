@@ -11,3 +11,9 @@
     height: 58px;
     border: 1px solid black;
 }
+
+.duck {
+    background-image: url('../assets/1000_F_487086484_R96uiz0DYn5Am5YL12hz4ddQnkz82JzZ.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
